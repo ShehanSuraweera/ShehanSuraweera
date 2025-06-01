@@ -7,7 +7,7 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSuraweera&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ShehanSuraweera&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-- 🌱 I’m currently learning **React, Node js, express js, mongoDb, ...**
+- 🌱 I’m currently learning **Blockchain, React, Node js, express js, mongoDb, ...**
 
 - 💬 Ask me about **Java, React, Node js, express js, mongoDb**
 
@@ -15,7 +15,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/shehan suraweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehan suraweera" height="30" width="40" /></a>
+  <a href="https://fb.com/shehan suraweera" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://shehansuraweera.me" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="Portfolio" height="30" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shehan-suraweera" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
