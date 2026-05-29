@@ -102,9 +102,9 @@ I'm **Shehan Suraweera**, a Software Engineer from Sri Lanka focused on building
 
 ## 📈 My GitHub Stats
 
-[![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehanSuraweera&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehanSuraweera&show_icons=true&theme=tokyonight)](https://github.com/ShehanSuraweera)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSuraweera&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSuraweera&layout=compact&theme=tokyonight)](https://github.com/ShehanSuraweera)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShehanSuraweera&theme=tokyonight)](https://git.io/streak-stats)
 
