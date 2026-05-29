@@ -22,11 +22,9 @@
 
 I'm **Shehan Suraweera**, a Software Engineer from Sri Lanka focused on building **scalable backend systems, full-stack applications, and blockchain integrations**.
 
-- 🔭 Currently interning at **[Coin Ceylon](https://coinceylon.com)** — Go backends, Cardano blockchain (MeshJS / Aiken)
+
 - 💬 Ask me about **React, Next.js, Go, Node.js, PostgreSQL, Blockchain / Web3**
-- 🚀 Projects live at **[cargotrust.coinceylon.com](https://cargotrust.coinceylon.com)** and **[sathsara.lk](https://sathsara.lk)**
-- 🎓 Final-year BSc Computer Science · University of Kelaniya · Graduating Aug 2026
-- ⚡ Fun fact: I've led teams to **3 hackathon wins** in 2025
+
 
 ---
 
@@ -38,17 +36,7 @@ I'm **Shehan Suraweera**, a Software Engineer from Sri Lanka focused on building
 | 🥇 1st Place | [Unihack 2025](https://coinceylon.com/unihack2025) — Inter-university Hackathon | Coin Ceylon |
 | 🥉 2nd Runner-up | [Tech-Triathlon 2025](https://tech-triathlon.rootcode.io/teams/2025/Vertex) — Inter-university Hackathon | Rootcode |
 
----
 
-## 🧑‍💻 My Work
-
-| Project | Stack | Link |
-|---------|-------|------|
-| **Cargo Trust** — Blockchain HBL document management system | Go · PostgreSQL · Vue.js · MeshJS · Nginx | [cargotrust.coinceylon.com](https://cargotrust.coinceylon.com) |
-| **Mentara** — Decentralized peer-to-peer learning platform | Go · Node.js · TypeScript · Aiken · Docker | — |
-| **Sathsara** — Pharmacy wholesale distribution web app | Next.js · TypeScript · Tailwind CSS | [sathsara.lk](https://sathsara.lk) |
-
----
 
 ## 🛠️ Skills & Tools
 
@@ -102,9 +90,6 @@ I'm **Shehan Suraweera**, a Software Engineer from Sri Lanka focused on building
 
 ## 📈 My GitHub Stats
 
-[![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehanSuraweera&show_icons=true&theme=tokyonight)](https://github.com/ShehanSuraweera)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanSuraweera&layout=compact&theme=tokyonight)](https://github.com/ShehanSuraweera)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShehanSuraweera&theme=tokyonight)](https://git.io/streak-stats)
 
